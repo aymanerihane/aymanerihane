@@ -88,20 +88,22 @@ An LLM-powered system designed to automatically generate test cases for web appl
 
 ---
 
-### 🔹 Sehatoka — Medical RAG Assistant
+### 🔹 Sehatoka — AI-Enhanced Healthcare Platform
 
-A medical information assistant built using **Retrieval-Augmented Generation (RAG)** to provide answers based on trusted medical information sources.
+A smart healthcare management platform designed to digitize hospital workflows and centralize patient records while improving interaction between patients, doctors, and healthcare staff.
 
 **Highlights:**
 
-* RAG-based question answering
-* Medical document retrieval
-* External information integration
-* MCP-based architecture
-* LLM-powered responses
-* Focus on grounded and source-based answers
+* Digitized healthcare workflows and centralized patient information
+* Built real-time dashboards for hospital staff and healthcare workflows
+* Implemented smart scheduling to improve staff–patient coordination
+* Developed AI-powered features using **Transformers, BERT, and LangChain**
+* Implemented **Retrieval-Augmented Generation (RAG)** for intelligent information retrieval
+* Applied **LLM fine-tuning** for domain-specific AI capabilities
+* Used asynchronous task processing and caching for backend operations
+* Improved staff–patient interaction efficiency by approximately **30–40%** within targeted hospital departments
 
-**Tech:** Python · RAG · LLMs · NLP · MCP
+**Tech:** FastAPI · React.js · Transformers · BERT · LangChain · RAG · Fine-Tuning · Redis · Celery · Nginx
 
 ---
 
